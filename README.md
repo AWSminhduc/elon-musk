@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elon Musk</title>
+</h1>Elon Musk</h1>
 </head>
 <body>
     <h1>Elon Musk</h1>
